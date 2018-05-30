@@ -3,7 +3,7 @@
 //  EasySales
 //
 //  Created by julfi on 29/05/2018.
-//  Copyright © 2018 EzTech International Sdn Bhd. All rights reserved.
+//  Copyright © 2018 Md Julfikar Mahmud.
 //
 
 #import <Foundation/Foundation.h>
